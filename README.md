@@ -36,7 +36,7 @@ Berikut adalah diagram ERD yang digunakan dalam aplikasi ini:
 ## Dokumentasi Video
 Berikut adalah video dokumentasi untuk aplikasi ini:
 
-**[Tonton di GitHub](https://github.com/user-attachments/assets/6bdfd1be-72b9-4224-8f3f-150894068147)**
+https://github.com/user-attachments/assets/6bdfd1be-72b9-4224-8f3f-150894068147
 
 **[Tonton di Lokal](demo-test/demo-websiteuniversity.mp4)**
 
