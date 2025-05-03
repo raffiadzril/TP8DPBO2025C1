@@ -1,4 +1,3 @@
-
 # Tugas Praktikum 8 DPBO 2025 C1  
 Raffi Adzril Alfaiz - Ilmu Komputer UPI  
 ---
@@ -31,6 +30,14 @@ Website ini adalah implementasi konsep **Object-Oriented Programming (OOP)** men
 Berikut adalah diagram ERD yang digunakan dalam aplikasi ini:
 
 ![ERD](ERD_TPMVC.jpg)
+
+---
+
+## Dokumentasi Video
+Berikut adalah video dokumentasi untuk aplikasi ini:
+
+- **[Tonton di GitHub](https://github.com/user-attachments/assets/6bdfd1be-72b9-4224-8f3f-150894068147)**
+- **[Tonton di Lokal](demo-test/demo-websiteuniversity.mp4)**
 
 ---
 
